@@ -1,3 +1,3 @@
 # com-2-labs
-This documents for students who are studying IZTECH. I hope i will help you.
+This documents for students who are studying IZTECH. I hope, these codes will help you.
 Good luck 
